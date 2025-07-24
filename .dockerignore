@@ -1,0 +1,6 @@
+.env
+*.xlsx
+.git
+.gitignore
+.vscode
+__pycache__
